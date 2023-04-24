@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TextFiles](https://github.com/Hemedbz/TextFiles.git)
 
-- 🌱 I’m currently learning **Full Stack Python course**
+- 🌱 I’m currently learning **Full-Stack Software Development**
 
 - 📫 How to reach me **yaelmadmon1011@gmail.com**
 
